@@ -1,2 +1,5 @@
 # hello-world
-Its a repository
+
+Plantian chips can take you to heaven.
+I'm kd.
+Not kd.
